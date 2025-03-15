@@ -9,15 +9,17 @@ function Footer() {
    
       <div className="footer-outer-container">
         <div className="footer-container">
+          <div className="social-icos">
+              <ul>
+                <li><FacebookOutlinedIcon /></li>
+                <li><InstagramIcon /></li>
+                <li><YouTubeIcon /></li>
+              </ul>
+          </div>
+
           <div className="cols">
             <div className="col-4">
-               <div className="social-icos">
-                  <ul>
-                    <li><FacebookOutlinedIcon /></li>
-                    <li><InstagramIcon /></li>
-                    <li><YouTubeIcon /></li>
-                  </ul>
-               </div>
+              
                <h3>Audio Description</h3>
                <h3>Invester Relation</h3>
                <h3>Legal Notices</h3>
