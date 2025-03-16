@@ -3,14 +3,15 @@
     top: 0;
     display: flex;
     justify-content: center;
-    background-color: rgb(20, 20, 20);
     color: #fff;
     transition: all .4s;
-    /* background-color: transparent; */
+    background-color: transparent;
+    background-color: rgb(20, 20, 20);
     height: 10vh;
     transition-timing-function: ease-in;
     z-index: 1;
     /* background-color: red; */
+
 }
 .header-container{
     width: 100%;
