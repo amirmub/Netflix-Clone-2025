@@ -6,7 +6,6 @@ Netflix Clone 2025 is a modern web application that replicates the core function
 
 ## Features
 
-- 🔐 **User Authentication** - Secure login and signup system.
 - 🎬 **Browse Movies & TV Shows** - Fetches real-time data from TMDb API.
 - 🔍 **Search Functionality** - Quickly find movies and TV shows.
 - 📺 **Movie Trailers** - Watch YouTube trailers directly from the app.
