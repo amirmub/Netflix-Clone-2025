@@ -4,6 +4,17 @@
 
 Netflix Clone 2025 is a modern web application that replicates the core functionalities of Netflix. It allows users to browse movies, watch trailers, and experience a sleek, responsive UI. The project is built using the latest technologies, including React.js, Node.js, and TMDb API for fetching movie data.
 
+🌐 **Live Demo**: [netflix-clone.netlify.app](https://dreamy-souffle-72bb3a.netlify.app)
+
+
+---
+
+## 📸 Preview
+
+![Preview](./netflix/src/assets/images/preview.png)
+
+---
+
 ## Features
 
 - 🎬 **Browse Movies & TV Shows** - Fetches real-time data from TMDb API.
